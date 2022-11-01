@@ -5,9 +5,7 @@ body {
 }
 /* Logo */
 .iitjammu-logo {
-    /* margin-top: 1em; */
     margin-left: 1em;
-    /* margin-bottom: 0.5em; */
     max-width: 20%;
     max-width: 20%;
 }
@@ -34,9 +32,12 @@ body {
 .home-icon {
     transform: scale(1.5);
 }
+.dropdown-menu{
+    background-color: #0a456d;
+}
 /* carousel */
 .carousel{
-    margin-bottom: 1em;
+    margin-bottom: 3em;
 }
 /* Marchandise Items */
 .item-row{
@@ -56,6 +57,9 @@ body {
 /* New Arrivals */
 .new-arrivals-heading{
     margin-bottom: 1em;
+}
+.new-arrivals{
+    margin-top: 1.5rem;
 }
 /* Footer */
 footer {

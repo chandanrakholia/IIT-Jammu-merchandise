@@ -4,11 +4,9 @@ body {
     width: 100%;
 }
 .iitjammu-logo {
-    margin-top: 1em;
     margin-left: 1em;
-    margin-bottom: 0.5em;
-    max-width: 15%;
-    max-width: 12%;
+    max-width: 20%;
+    max-width: 20%;
 }
 
 .navbar {
@@ -20,6 +18,9 @@ body {
 .navbar a {
     margin-left: 1em;
     color: white;
+}
+.home-icon {
+    transform: scale(1.5);
 }
 .dropdown-menu{
     background-color: blue; 
@@ -41,6 +42,10 @@ body {
     margin-top: 2em;
     background-color: #adb5bd;
     margin-bottom: 1em;
+}
+.merchandise-heading{
+    margin-top: 1.5em;
+    margin-bottom: 1.5em;
 }
 /* Footer */
 footer {
