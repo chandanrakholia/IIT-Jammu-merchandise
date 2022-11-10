@@ -51,11 +51,11 @@ body {
     color: black;
 }
 .products{
-    border-radius: 0.5em;
-    margin-right: 1em;
-    margin-left: 1em;
-    padding: 0;
-    background-color: #e9ecef;
+    /* border-radius: 0.5em; */
+    /* margin-right: 1em;
+    margin-left: 1em; */
+    /* padding: 0; */
+    /* background-color: #e9ecef; */
 }
 .color-theme{
     border-radius: 0.5em 0.5em 0 0;
@@ -134,4 +134,7 @@ footer {
 #carouselExampleControls .carousel-control-next-icon {
     filter: invert(100%);
     margin-right: auto;
+}
+a{
+    z-index: 1;
 }
