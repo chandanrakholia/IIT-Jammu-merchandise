@@ -1,0 +1,97 @@
+body {
+    background-color: #DFE9F5;
+    height: 100vh;
+    width: 100%;
+}
+.iitjammu-logo {
+    margin-left: 1em;
+    max-width: 20%;
+    max-width: 20%;
+}
+
+.navbar {
+    padding-left: 1em;
+    background-color: #0D4389;
+    color: white;
+    margin-bottom: 1rem;
+}
+.navbar a {
+    margin-left: 1em;
+    color: white;
+}
+.home-icon {
+    transform: scale(1.5);
+}
+.dropdown-menu{
+    background-color: #0a456d;
+}
+.dropdown-item{
+    margin-left: 0px !important;
+}
+.dropdown-toggle{
+    border: none ;
+}
+.buy-now-btn{
+    width: 6em;
+    height: 4em;
+    margin-top: 25%;
+}
+.merch-item-row{
+    border-radius: 1em;
+    margin-left: auto;
+    margin-right: auto;
+    width: 90%;
+    padding: 1em;
+    margin-top: 2em;
+    background-color: #adb5bd;
+    margin-bottom: 1em;
+}
+.merchandise-heading{
+    margin-top: 1.5em;
+    margin-bottom: 1.5em;
+}
+/* Footer */
+footer {
+    background-color: #98999B;
+    color: black;
+    margin-top: 10%;
+    padding-bottom: 4rem;
+    margin-right: 0px !important;
+    margin-left: 0px !important;
+}
+
+.contact-details {
+    font-weight: 400;
+    font-size: 1.5em;
+    margin-top: 7%;
+}
+.address{
+    margin-top: auto;
+    margin-bottom: auto;
+
+}
+.follow-us-heading {
+    font-weight: 400;
+    font-size: 1.5em;
+}
+.follow-us{
+    margin-top: auto;
+    margin-bottom: auto;
+}
+.follow-us a {
+    margin-left: 2em;
+}
+
+.col {
+    margin-right: auto;
+    margin-left: auto;
+
+}
+.footer{
+    text-align: center;
+}
+
+.soc-med-li {
+    transform: scale(2);
+    color: black;
+}

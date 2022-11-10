@@ -33,6 +33,9 @@ body {
 .dropdown-menu{
     background-color: #0a456d;
 }
+.dropdown-item{
+    margin-left: 0px !important;
+}
 /* carousel */
 .carousel{
     margin-bottom: 3em;
@@ -42,6 +45,10 @@ body {
     width: 100%;
     margin-left: 0;
     margin-right: 0;
+}
+.product-heading{
+    text-decoration: none;
+    color: black;
 }
 .products{
     border-radius: 0.5em;

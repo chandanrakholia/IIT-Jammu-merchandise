@@ -23,7 +23,10 @@ body {
     transform: scale(1.5);
 }
 .dropdown-menu{
-    background-color: blue; 
+    background-color: #0a456d;
+}
+.dropdown-item{
+    margin-left: 0px !important;
 }
 .dropdown-toggle{
     border: none ;
