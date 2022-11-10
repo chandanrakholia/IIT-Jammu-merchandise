@@ -10,6 +10,7 @@ body {
 }
 
 .navbar {
+    margin-top: 1rem;
     padding-left: 1em;
     background-color: #0D4389;
     color: white;

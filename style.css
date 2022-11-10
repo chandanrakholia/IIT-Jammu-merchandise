@@ -9,6 +9,7 @@ body {
 }
 /* Navbar */
 .navbar {
+    margin-top: 1rem;
     padding-left: 1em;
     background-color: #0D4389;
     color: white;
@@ -51,11 +52,11 @@ body {
     color: black;
 }
 .products{
-    /* border-radius: 0.5em; */
+    border-radius: 0.5em;
     /* margin-right: 1em;
     margin-left: 1em; */
-    /* padding: 0; */
-    /* background-color: #e9ecef; */
+    padding: 0;
+    background-color: #e9ecef;
 }
 .color-theme{
     border-radius: 0.5em 0.5em 0 0;
